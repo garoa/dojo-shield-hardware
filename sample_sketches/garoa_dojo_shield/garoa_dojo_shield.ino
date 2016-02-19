@@ -1,3 +1,16 @@
+/*
+  Example sketch for Garoa Dojo Shield
+  Código de exemplo para o Dojo Shield do Garoa Hacker Clube
+
+  (c) 2016 Garoa Hacker Clube
+
+  Authors:
+   - Marcelo Rodrigues
+   - Luciano Ramalho
+
+  Licensed under GNU GPL v2 (or later)
+*/
+
 void setup()
 {
   Serial.begin(9600);
